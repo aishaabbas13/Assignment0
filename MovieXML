@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<movies>
+<movie>
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <year>2001</year>
+    <genre>Fantasy</genre>
+</movie>
+
+<actor>
+    <name>Emma Watson</name>
+    <DateOfBirth>04-15-1990</DateOfBirth>
+</actor>
+
+</movies>
