@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<movies>
+	<movie>
+		<title>"Spiderman"</title>
+		<year>2002</year>
+		<genre>Fantasy</genre>
+		<actors>
+			<actor>
+				<name>"Tobey Maguire"</name>
+				<DateOfBirth>1975-06-27</DateOfBirth>
+			</actor>
+			<actor>
+				<name>"Kirsten Dunst"</name>
+				<DateOfBirth>1982-04-30</DateOfBirth>
+			</actor>
+		</actors>
+	</movie>
+	<movie>
+		<title>"Deadpool"</title>
+		<year>2016</year>
+		<genre>Action</genre>
+		<actors>
+			<actor>
+				<name>"Ryan Reynolds"</name>
+				<DateOfBirth>1976-10-23</DateOfBirth>
+			</actor>
+			<actor>
+				<name>"Morena Baccarin"</name>
+				<DateOfBirth>1979-06-02</DateOfBirth>
+			</actor>
+		</actors>
+	</movie>
+</movies>
